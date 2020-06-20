@@ -43,6 +43,56 @@
       "primaryFontFamily": "Arial",
       "themeColors": [
         {
+          "colorType": "ACCENT6",
+          "color": {
+            "rgbColor": {
+              "red": 0.27450982,
+              "green": 0.7411765,
+              "blue": 0.7764706
+            }
+          }
+        },
+        {
+          "colorType": "BACKGROUND",
+          "color": {
+            "rgbColor": {
+              "red": 1,
+              "green": 1,
+              "blue": 1
+            }
+          }
+        },
+        {
+          "colorType": "ACCENT2",
+          "color": {
+            "rgbColor": {
+              "red": 0.91764706,
+              "green": 0.2627451,
+              "blue": 0.20784314
+            }
+          }
+        },
+        {
+          "colorType": "ACCENT1",
+          "color": {
+            "rgbColor": {
+              "red": 0.25882354,
+              "green": 0.52156866,
+              "blue": 0.95686275
+            }
+          }
+        },
+        {
+          "colorType": "ACCENT5",
+          "color": {
+            "rgbColor": {
+              "red": 1,
+              "green": 0.42745098,
+              "blue": 0.003921569
+            }
+          }
+        },
+        {
           "colorType": "LINK",
           "color": {
             "rgbColor": {
@@ -63,68 +113,18 @@
           }
         },
         {
-          "colorType": "ACCENT3",
-          "color": {
-            "rgbColor": {
-              "red": 0.9843137,
-              "green": 0.7372549,
-              "blue": 0.015686275
-            }
-          }
-        },
-        {
-          "colorType": "ACCENT1",
-          "color": {
-            "rgbColor": {
-              "red": 0.25882354,
-              "green": 0.52156866,
-              "blue": 0.95686275
-            }
-          }
-        },
-        {
-          "colorType": "BACKGROUND",
-          "color": {
-            "rgbColor": {
-              "red": 1,
-              "green": 1,
-              "blue": 1
-            }
-          }
-        },
-        {
-          "colorType": "ACCENT5",
-          "color": {
-            "rgbColor": {
-              "red": 1,
-              "green": 0.42745098,
-              "blue": 0.003921569
-            }
-          }
-        },
-        {
-          "colorType": "ACCENT2",
-          "color": {
-            "rgbColor": {
-              "red": 0.91764706,
-              "green": 0.2627451,
-              "blue": 0.20784314
-            }
-          }
-        },
-        {
           "colorType": "TEXT",
           "color": {
             "rgbColor": {}
           }
         },
         {
-          "colorType": "ACCENT6",
+          "colorType": "ACCENT3",
           "color": {
             "rgbColor": {
-              "red": 0.27450982,
-              "green": 0.7411765,
-              "blue": 0.7764706
+              "red": 0.9843137,
+              "green": 0.7372549,
+              "blue": 0.015686275
             }
           }
         }
@@ -39679,24 +39679,6 @@
                     "stringValue": "http://www.munzee.com/g/YI362E"
                   },
                   "formattedValue": "http://www.munzee.com/g/YI362E",
-                  "userEnteredFormat": {
-                    "textFormat": {
-                      "foregroundColor": {
-                        "red": 0.06666667,
-                        "green": 0.33333334,
-                        "blue": 0.8
-                      },
-                      "underline": true,
-                      "foregroundColorStyle": {
-                        "rgbColor": {
-                          "red": 0.06666667,
-                          "green": 0.33333334,
-                          "blue": 0.8
-                        }
-                      }
-                    },
-                    "hyperlinkDisplayType": "LINKED"
-                  },
                   "effectiveFormat": {
                     "backgroundColor": {
                       "red": 1,
@@ -40243,12 +40225,12 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/g/A65X9Y"
+                    "stringValue": "http://munzee.com/g/A65X9Y"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/g/A65X9Y"
+                    "stringValue": "http://munzee.com/g/A65X9Y"
                   },
-                  "formattedValue": "http://www.munzee.com/g/A65X9Y",
+                  "formattedValue": "http://munzee.com/g/A65X9Y",
                   "userEnteredFormat": {
                     "horizontalAlignment": "LEFT",
                     "textFormat": {
@@ -40312,7 +40294,7 @@
                       }
                     }
                   },
-                  "hyperlink": "http://www.munzee.com/g/A65X9Y"
+                  "hyperlink": "http://munzee.com/g/A65X9Y"
                 }
               ]
             },
@@ -40521,12 +40503,12 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/g/8IW43V"
+                    "stringValue": "http://munzee.com/g/8IW43V"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/g/8IW43V"
+                    "stringValue": "http://munzee.com/g/8IW43V"
                   },
-                  "formattedValue": "http://www.munzee.com/g/8IW43V",
+                  "formattedValue": "http://munzee.com/g/8IW43V",
                   "userEnteredFormat": {
                     "horizontalAlignment": "LEFT",
                     "textFormat": {
@@ -40590,7 +40572,7 @@
                       }
                     }
                   },
-                  "hyperlink": "http://www.munzee.com/g/8IW43V"
+                  "hyperlink": "http://munzee.com/g/8IW43V"
                 }
               ]
             },
@@ -40799,12 +40781,12 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/g/07G4XA"
+                    "stringValue": "http://munzee.com/g/07G4XA"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/g/07G4XA"
+                    "stringValue": "http://munzee.com/g/07G4XA"
                   },
-                  "formattedValue": "http://www.munzee.com/g/07G4XA",
+                  "formattedValue": "http://munzee.com/g/07G4XA",
                   "userEnteredFormat": {
                     "horizontalAlignment": "LEFT",
                     "textFormat": {
@@ -40868,7 +40850,7 @@
                       }
                     }
                   },
-                  "hyperlink": "http://www.munzee.com/g/07G4XA"
+                  "hyperlink": "http://munzee.com/g/07G4XA"
                 }
               ]
             },
@@ -41077,12 +41059,12 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/g/3QW3W8"
+                    "stringValue": "http://munzee.com/g/3QW3W8"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/g/3QW3W8"
+                    "stringValue": "http://munzee.com/g/3QW3W8"
                   },
-                  "formattedValue": "http://www.munzee.com/g/3QW3W8",
+                  "formattedValue": "http://munzee.com/g/3QW3W8",
                   "userEnteredFormat": {
                     "horizontalAlignment": "LEFT",
                     "textFormat": {
@@ -41146,7 +41128,7 @@
                       }
                     }
                   },
-                  "hyperlink": "http://www.munzee.com/g/3QW3W8"
+                  "hyperlink": "http://munzee.com/g/3QW3W8"
                 }
               ]
             },
@@ -41355,12 +41337,12 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/g/ET19H5"
+                    "stringValue": "http://munzee.com/g/ET19H5"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/g/ET19H5"
+                    "stringValue": "http://munzee.com/g/ET19H5"
                   },
-                  "formattedValue": "http://www.munzee.com/g/ET19H5",
+                  "formattedValue": "http://munzee.com/g/ET19H5",
                   "userEnteredFormat": {
                     "horizontalAlignment": "LEFT",
                     "textFormat": {
@@ -41424,7 +41406,7 @@
                       }
                     }
                   },
-                  "hyperlink": "http://www.munzee.com/g/ET19H5"
+                  "hyperlink": "http://munzee.com/g/ET19H5"
                 }
               ]
             },
@@ -42219,12 +42201,12 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/g/GD1Y06"
+                    "stringValue": "http://munzee.com/g/GD1Y06"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/g/GD1Y06"
+                    "stringValue": "http://munzee.com/g/GD1Y06"
                   },
-                  "formattedValue": "http://www.munzee.com/g/GD1Y06",
+                  "formattedValue": "http://munzee.com/g/GD1Y06",
                   "userEnteredFormat": {
                     "horizontalAlignment": "LEFT",
                     "textFormat": {
@@ -42288,7 +42270,7 @@
                       }
                     }
                   },
-                  "hyperlink": "http://www.munzee.com/g/GD1Y06"
+                  "hyperlink": "http://munzee.com/g/GD1Y06"
                 }
               ]
             },
@@ -42455,12 +42437,12 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/g/1T67WT"
+                    "stringValue": "http://munzee.com/g/1T67WT"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/g/1T67WT"
+                    "stringValue": "http://munzee.com/g/1T67WT"
                   },
-                  "formattedValue": "http://www.munzee.com/g/1T67WT",
+                  "formattedValue": "http://munzee.com/g/1T67WT",
                   "userEnteredFormat": {
                     "horizontalAlignment": "LEFT",
                     "textFormat": {
@@ -42524,7 +42506,7 @@
                       }
                     }
                   },
-                  "hyperlink": "http://www.munzee.com/g/1T67WT"
+                  "hyperlink": "http://munzee.com/g/1T67WT"
                 }
               ]
             }
