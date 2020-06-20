@@ -1,7 +1,7 @@
 ﻿{
-  "spreadsheetId": "1uRLZEby_WEUruX_vYglBzIhFwtJXQvYf45-NigPZj9E",
+  "spreadsheetId": "1qLjBfztulS6NxPTpVQYg2ddcLBsG5yXGo8LUo704mHc",
   "properties": {
-    "title": "TS-kokoelma",
+    "title": "TS+PUU",
     "locale": "en_GB",
     "autoRecalc": "ON_CHANGE",
     "timeZone": "Europe/Helsinki",
@@ -38,14 +38,105 @@
           "blue": 1
         }
       }
+    },
+    "spreadsheetTheme": {
+      "primaryFontFamily": "Arial",
+      "themeColors": [
+        {
+          "colorType": "ACCENT2",
+          "color": {
+            "rgbColor": {
+              "red": 0.91764706,
+              "green": 0.2627451,
+              "blue": 0.20784314
+            }
+          }
+        },
+        {
+          "colorType": "ACCENT3",
+          "color": {
+            "rgbColor": {
+              "red": 0.9843137,
+              "green": 0.7372549,
+              "blue": 0.015686275
+            }
+          }
+        },
+        {
+          "colorType": "ACCENT6",
+          "color": {
+            "rgbColor": {
+              "red": 0.27450982,
+              "green": 0.7411765,
+              "blue": 0.7764706
+            }
+          }
+        },
+        {
+          "colorType": "ACCENT5",
+          "color": {
+            "rgbColor": {
+              "red": 1,
+              "green": 0.42745098,
+              "blue": 0.003921569
+            }
+          }
+        },
+        {
+          "colorType": "BACKGROUND",
+          "color": {
+            "rgbColor": {
+              "red": 1,
+              "green": 1,
+              "blue": 1
+            }
+          }
+        },
+        {
+          "colorType": "LINK",
+          "color": {
+            "rgbColor": {
+              "red": 0.06666667,
+              "green": 0.33333334,
+              "blue": 0.8
+            }
+          }
+        },
+        {
+          "colorType": "ACCENT1",
+          "color": {
+            "rgbColor": {
+              "red": 0.25882354,
+              "green": 0.52156866,
+              "blue": 0.95686275
+            }
+          }
+        },
+        {
+          "colorType": "TEXT",
+          "color": {
+            "rgbColor": {}
+          }
+        },
+        {
+          "colorType": "ACCENT4",
+          "color": {
+            "rgbColor": {
+              "red": 0.20392157,
+              "green": 0.65882355,
+              "blue": 0.3254902
+            }
+          }
+        }
+      ]
     }
   },
   "sheets": [
     {
       "properties": {
-        "sheetId": 2016507575,
+        "sheetId": 1366585383,
         "title": "Tiedot",
-        "index": 2,
+        "index": 0,
         "sheetType": "GRID",
         "gridProperties": {
           "rowCount": 990,
@@ -10503,12 +10594,15 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/g/8Y8X3P"
+                    "stringValue": "https://www.munzee.com/g/8Y8X3P"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/g/8Y8X3P"
+                    "stringValue": "https://www.munzee.com/g/8Y8X3P"
                   },
-                  "formattedValue": "http://www.munzee.com/g/8Y8X3P",
+                  "formattedValue": "https://www.munzee.com/g/8Y8X3P",
+                  "userEnteredFormat": {
+                    "hyperlinkDisplayType": "LINKED"
+                  },
                   "effectiveFormat": {
                     "backgroundColor": {
                       "red": 1,
@@ -10530,7 +10624,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -10797,12 +10891,15 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/g/0YE4K3"
+                    "stringValue": "https://www.munzee.com/g/0YE4K3"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/g/0YE4K3"
+                    "stringValue": "https://www.munzee.com/g/0YE4K3"
                   },
-                  "formattedValue": "http://www.munzee.com/g/0YE4K3",
+                  "formattedValue": "https://www.munzee.com/g/0YE4K3",
+                  "userEnteredFormat": {
+                    "hyperlinkDisplayType": "LINKED"
+                  },
                   "effectiveFormat": {
                     "backgroundColor": {
                       "red": 1,
@@ -10824,7 +10921,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -11091,12 +11188,15 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/g/77WET3"
+                    "stringValue": "https://www.munzee.com/g/77WET3"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/g/77WET3"
+                    "stringValue": "https://www.munzee.com/g/77WET3"
                   },
-                  "formattedValue": "http://www.munzee.com/g/77WET3",
+                  "formattedValue": "https://www.munzee.com/g/77WET3",
+                  "userEnteredFormat": {
+                    "hyperlinkDisplayType": "LINKED"
+                  },
                   "effectiveFormat": {
                     "backgroundColor": {
                       "red": 1,
@@ -11118,7 +11218,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -11385,12 +11485,15 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/g/6M67FG"
+                    "stringValue": "https://www.munzee.com/g/6M67FG"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/g/6M67FG"
+                    "stringValue": "https://www.munzee.com/g/6M67FG"
                   },
-                  "formattedValue": "http://www.munzee.com/g/6M67FG",
+                  "formattedValue": "https://www.munzee.com/g/6M67FG",
+                  "userEnteredFormat": {
+                    "hyperlinkDisplayType": "LINKED"
+                  },
                   "effectiveFormat": {
                     "backgroundColor": {
                       "red": 1,
@@ -11412,7 +11515,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -11679,12 +11782,15 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/g/CN38Y3"
+                    "stringValue": "https://www.munzee.com/g/CN38Y3"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/g/CN38Y3"
+                    "stringValue": "https://www.munzee.com/g/CN38Y3"
                   },
-                  "formattedValue": "http://www.munzee.com/g/CN38Y3",
+                  "formattedValue": "https://www.munzee.com/g/CN38Y3",
+                  "userEnteredFormat": {
+                    "hyperlinkDisplayType": "LINKED"
+                  },
                   "effectiveFormat": {
                     "backgroundColor": {
                       "red": 1,
@@ -11706,7 +11812,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -11760,7 +11866,7 @@
                     "wrapStrategy": "OVERFLOW_CELL",
                     "textFormat": {
                       "foregroundColor": {},
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -11978,7 +12084,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -12581,7 +12687,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -12878,7 +12984,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -13175,7 +13281,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -13751,12 +13857,15 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/m/hani7/2090/8WAL42/"
+                    "stringValue": "https://www.munzee.com/m/hani7/2090/8WAL42/"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/m/hani7/2090/8WAL42/"
+                    "stringValue": "https://www.munzee.com/m/hani7/2090/8WAL42/"
                   },
-                  "formattedValue": "http://www.munzee.com/m/hani7/2090/8WAL42/",
+                  "formattedValue": "https://www.munzee.com/m/hani7/2090/8WAL42/",
+                  "userEnteredFormat": {
+                    "hyperlinkDisplayType": "LINKED"
+                  },
                   "effectiveFormat": {
                     "backgroundColor": {
                       "red": 1,
@@ -13778,7 +13887,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -14075,7 +14184,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -14680,7 +14789,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -14947,12 +15056,15 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/g/CIL314"
+                    "stringValue": "https://www.munzee.com/g/CIL314"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/g/CIL314"
+                    "stringValue": "https://www.munzee.com/g/CIL314"
                   },
-                  "formattedValue": "http://www.munzee.com/g/CIL314",
+                  "formattedValue": "https://www.munzee.com/g/CIL314",
+                  "userEnteredFormat": {
+                    "hyperlinkDisplayType": "LINKED"
+                  },
                   "effectiveFormat": {
                     "backgroundColor": {
                       "red": 1,
@@ -14974,7 +15086,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -15028,7 +15140,7 @@
                     "wrapStrategy": "OVERFLOW_CELL",
                     "textFormat": {
                       "foregroundColor": {},
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -15246,7 +15358,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -15543,7 +15655,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -16133,12 +16245,15 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/g/ZI4M63"
+                    "stringValue": "https://www.munzee.com/g/ZI4M63"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/g/ZI4M63"
+                    "stringValue": "https://www.munzee.com/g/ZI4M63"
                   },
-                  "formattedValue": "http://www.munzee.com/g/ZI4M63",
+                  "formattedValue": "https://www.munzee.com/g/ZI4M63",
+                  "userEnteredFormat": {
+                    "hyperlinkDisplayType": "LINKED"
+                  },
                   "effectiveFormat": {
                     "backgroundColor": {
                       "red": 1,
@@ -16160,7 +16275,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -16457,7 +16572,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -16724,12 +16839,15 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/g/Z5T7K2"
+                    "stringValue": "https://www.munzee.com/g/Z5T7K2"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/g/Z5T7K2"
+                    "stringValue": "https://www.munzee.com/g/Z5T7K2"
                   },
-                  "formattedValue": "http://www.munzee.com/g/Z5T7K2",
+                  "formattedValue": "https://www.munzee.com/g/Z5T7K2",
+                  "userEnteredFormat": {
+                    "hyperlinkDisplayType": "LINKED"
+                  },
                   "effectiveFormat": {
                     "backgroundColor": {
                       "red": 1,
@@ -16751,7 +16869,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -16805,7 +16923,7 @@
                     "wrapStrategy": "OVERFLOW_CELL",
                     "textFormat": {
                       "foregroundColor": {},
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -17023,7 +17141,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -17320,7 +17438,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -17587,12 +17705,15 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/g/RY240I"
+                    "stringValue": "https://www.munzee.com/g/RY240I"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/g/RY240I"
+                    "stringValue": "https://www.munzee.com/g/RY240I"
                   },
-                  "formattedValue": "http://www.munzee.com/g/RY240I",
+                  "formattedValue": "https://www.munzee.com/g/RY240I",
+                  "userEnteredFormat": {
+                    "hyperlinkDisplayType": "LINKED"
+                  },
                   "effectiveFormat": {
                     "backgroundColor": {
                       "red": 1,
@@ -17614,7 +17735,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -18190,12 +18311,15 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/m/matanome/5875/2GC9R8/"
+                    "stringValue": "https://www.munzee.com/m/matanome/5875/2GC9R8/"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/m/matanome/5875/2GC9R8/"
+                    "stringValue": "https://www.munzee.com/m/matanome/5875/2GC9R8/"
                   },
-                  "formattedValue": "http://www.munzee.com/m/matanome/5875/2GC9R8/",
+                  "formattedValue": "https://www.munzee.com/m/matanome/5875/2GC9R8/",
+                  "userEnteredFormat": {
+                    "hyperlinkDisplayType": "LINKED"
+                  },
                   "effectiveFormat": {
                     "backgroundColor": {
                       "red": 1,
@@ -18217,7 +18341,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -18808,12 +18932,15 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/g/G66SC3"
+                    "stringValue": "https://www.munzee.com/g/G66SC3"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/g/G66SC3"
+                    "stringValue": "https://www.munzee.com/g/G66SC3"
                   },
-                  "formattedValue": "http://www.munzee.com/g/G66SC3",
+                  "formattedValue": "https://www.munzee.com/g/G66SC3",
+                  "userEnteredFormat": {
+                    "hyperlinkDisplayType": "LINKED"
+                  },
                   "effectiveFormat": {
                     "backgroundColor": {
                       "red": 1,
@@ -18835,7 +18962,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -18889,7 +19016,7 @@
                     "wrapStrategy": "OVERFLOW_CELL",
                     "textFormat": {
                       "foregroundColor": {},
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -19077,12 +19204,15 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/g/WX490L"
+                    "stringValue": "https://www.munzee.com/g/WX490L"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/g/WX490L"
+                    "stringValue": "https://www.munzee.com/g/WX490L"
                   },
-                  "formattedValue": "http://www.munzee.com/g/WX490L",
+                  "formattedValue": "https://www.munzee.com/g/WX490L",
+                  "userEnteredFormat": {
+                    "hyperlinkDisplayType": "LINKED"
+                  },
                   "effectiveFormat": {
                     "backgroundColor": {
                       "red": 1,
@@ -19104,7 +19234,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -19158,7 +19288,7 @@
                     "wrapStrategy": "OVERFLOW_CELL",
                     "textFormat": {
                       "foregroundColor": {},
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -19203,7 +19333,7 @@
                     "wrapStrategy": "OVERFLOW_CELL",
                     "textFormat": {
                       "foregroundColor": {},
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -19248,7 +19378,7 @@
                     "wrapStrategy": "OVERFLOW_CELL",
                     "textFormat": {
                       "foregroundColor": {},
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -19270,12 +19400,15 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/g/5Y87FG"
+                    "stringValue": "https://www.munzee.com/g/5Y87FG"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/g/5Y87FG"
+                    "stringValue": "https://www.munzee.com/g/5Y87FG"
                   },
-                  "formattedValue": "http://www.munzee.com/g/5Y87FG",
+                  "formattedValue": "https://www.munzee.com/g/5Y87FG",
+                  "userEnteredFormat": {
+                    "hyperlinkDisplayType": "LINKED"
+                  },
                   "effectiveFormat": {
                     "backgroundColor": {
                       "red": 1,
@@ -19297,7 +19430,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -19351,7 +19484,7 @@
                     "wrapStrategy": "OVERFLOW_CELL",
                     "textFormat": {
                       "foregroundColor": {},
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -19396,7 +19529,7 @@
                     "wrapStrategy": "OVERFLOW_CELL",
                     "textFormat": {
                       "foregroundColor": {},
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -19441,7 +19574,7 @@
                     "wrapStrategy": "OVERFLOW_CELL",
                     "textFormat": {
                       "foregroundColor": {},
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -19463,12 +19596,15 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/g/IC654S"
+                    "stringValue": "https://www.munzee.com/g/IC654S"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/g/IC654S"
+                    "stringValue": "https://www.munzee.com/g/IC654S"
                   },
-                  "formattedValue": "http://www.munzee.com/g/IC654S",
+                  "formattedValue": "https://www.munzee.com/g/IC654S",
+                  "userEnteredFormat": {
+                    "hyperlinkDisplayType": "LINKED"
+                  },
                   "effectiveFormat": {
                     "backgroundColor": {
                       "red": 1,
@@ -19490,7 +19626,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -19757,12 +19893,15 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/g/046LWM"
+                    "stringValue": "https://www.munzee.com/g/046LWM"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/g/046LWM"
+                    "stringValue": "https://www.munzee.com/g/046LWM"
                   },
-                  "formattedValue": "http://www.munzee.com/g/046LWM",
+                  "formattedValue": "https://www.munzee.com/g/046LWM",
+                  "userEnteredFormat": {
+                    "hyperlinkDisplayType": "LINKED"
+                  },
                   "effectiveFormat": {
                     "backgroundColor": {
                       "red": 1,
@@ -19784,7 +19923,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -20051,12 +20190,15 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/g/84Y5HY"
+                    "stringValue": "https://www.munzee.com/g/84Y5HY"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/g/84Y5HY"
+                    "stringValue": "https://www.munzee.com/g/84Y5HY"
                   },
-                  "formattedValue": "http://www.munzee.com/g/84Y5HY",
+                  "formattedValue": "https://www.munzee.com/g/84Y5HY",
+                  "userEnteredFormat": {
+                    "hyperlinkDisplayType": "LINKED"
+                  },
                   "effectiveFormat": {
                     "backgroundColor": {
                       "red": 1,
@@ -20078,7 +20220,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -20132,7 +20274,7 @@
                     "wrapStrategy": "OVERFLOW_CELL",
                     "textFormat": {
                       "foregroundColor": {},
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -20320,12 +20462,15 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/g/2Z24VJ"
+                    "stringValue": "https://www.munzee.com/g/2Z24VJ"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/g/2Z24VJ"
+                    "stringValue": "https://www.munzee.com/g/2Z24VJ"
                   },
-                  "formattedValue": "http://www.munzee.com/g/2Z24VJ",
+                  "formattedValue": "https://www.munzee.com/g/2Z24VJ",
+                  "userEnteredFormat": {
+                    "hyperlinkDisplayType": "LINKED"
+                  },
                   "effectiveFormat": {
                     "backgroundColor": {
                       "red": 1,
@@ -20347,7 +20492,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -20614,12 +20759,15 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/m/hylje/2286/4Q0J2P/"
+                    "stringValue": "https://www.munzee.com/m/hylje/2286/4Q0J2P/"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/m/hylje/2286/4Q0J2P/"
+                    "stringValue": "https://www.munzee.com/m/hylje/2286/4Q0J2P/"
                   },
-                  "formattedValue": "http://www.munzee.com/m/hylje/2286/4Q0J2P/",
+                  "formattedValue": "https://www.munzee.com/m/hylje/2286/4Q0J2P/",
+                  "userEnteredFormat": {
+                    "hyperlinkDisplayType": "LINKED"
+                  },
                   "effectiveFormat": {
                     "backgroundColor": {
                       "red": 1,
@@ -20641,7 +20789,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -21540,12 +21688,12 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/g/R630TS"
+                    "stringValue": "https://www.munzee.com/g/R630TS"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/g/R630TS"
+                    "stringValue": "https://www.munzee.com/g/R630TS"
                   },
-                  "formattedValue": "http://www.munzee.com/g/R630TS",
+                  "formattedValue": "https://www.munzee.com/g/R630TS",
                   "userEnteredFormat": {
                     "backgroundColor": {
                       "red": 1,
@@ -21559,6 +21707,7 @@
                         "rgbColor": {}
                       }
                     },
+                    "hyperlinkDisplayType": "LINKED",
                     "backgroundColorStyle": {
                       "rgbColor": {
                         "red": 1,
@@ -22170,12 +22319,15 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/g/744AQI"
+                    "stringValue": "https://www.munzee.com/g/744AQI"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/g/744AQI"
+                    "stringValue": "https://www.munzee.com/g/744AQI"
                   },
-                  "formattedValue": "http://www.munzee.com/g/744AQI",
+                  "formattedValue": "https://www.munzee.com/g/744AQI",
+                  "userEnteredFormat": {
+                    "hyperlinkDisplayType": "LINKED"
+                  },
                   "effectiveFormat": {
                     "backgroundColor": {
                       "red": 1,
@@ -22197,7 +22349,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -22494,7 +22646,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -22791,7 +22943,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -24692,7 +24844,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -24959,12 +25111,15 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/g/35NWD0"
+                    "stringValue": "https://www.munzee.com/g/35NWD0"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/g/35NWD0"
+                    "stringValue": "https://www.munzee.com/g/35NWD0"
                   },
-                  "formattedValue": "http://www.munzee.com/g/35NWD0",
+                  "formattedValue": "https://www.munzee.com/g/35NWD0",
+                  "userEnteredFormat": {
+                    "hyperlinkDisplayType": "LINKED"
+                  },
                   "effectiveFormat": {
                     "backgroundColor": {
                       "red": 1,
@@ -24986,7 +25141,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -25592,7 +25747,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -25859,12 +26014,15 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/g/7K2R1E"
+                    "stringValue": "https://www.munzee.com/g/7K2R1E"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/g/7K2R1E"
+                    "stringValue": "https://www.munzee.com/g/7K2R1E"
                   },
-                  "formattedValue": "http://www.munzee.com/g/7K2R1E",
+                  "formattedValue": "https://www.munzee.com/g/7K2R1E",
+                  "userEnteredFormat": {
+                    "hyperlinkDisplayType": "LINKED"
+                  },
                   "effectiveFormat": {
                     "backgroundColor": {
                       "red": 1,
@@ -25886,7 +26044,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -25940,7 +26098,7 @@
                     "wrapStrategy": "OVERFLOW_CELL",
                     "textFormat": {
                       "foregroundColor": {},
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -26451,12 +26609,15 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/g/41T7MU"
+                    "stringValue": "https://www.munzee.com/g/41T7MU"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/g/41T7MU"
+                    "stringValue": "https://www.munzee.com/g/41T7MU"
                   },
-                  "formattedValue": "http://www.munzee.com/g/41T7MU",
+                  "formattedValue": "https://www.munzee.com/g/41T7MU",
+                  "userEnteredFormat": {
+                    "hyperlinkDisplayType": "LINKED"
+                  },
                   "effectiveFormat": {
                     "backgroundColor": {
                       "red": 1,
@@ -26478,7 +26639,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -26532,7 +26693,7 @@
                     "wrapStrategy": "OVERFLOW_CELL",
                     "textFormat": {
                       "foregroundColor": {},
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -26577,7 +26738,7 @@
                     "wrapStrategy": "OVERFLOW_CELL",
                     "textFormat": {
                       "foregroundColor": {},
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -26622,7 +26783,7 @@
                     "wrapStrategy": "OVERFLOW_CELL",
                     "textFormat": {
                       "foregroundColor": {},
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -26644,12 +26805,12 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/g/2PC64K"
+                    "stringValue": "https://www.munzee.com/g/2PC64K"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/g/2PC64K"
+                    "stringValue": "https://www.munzee.com/g/2PC64K"
                   },
-                  "formattedValue": "http://www.munzee.com/g/2PC64K",
+                  "formattedValue": "https://www.munzee.com/g/2PC64K",
                   "userEnteredFormat": {
                     "backgroundColor": {
                       "red": 1,
@@ -26663,6 +26824,7 @@
                         "rgbColor": {}
                       }
                     },
+                    "hyperlinkDisplayType": "LINKED",
                     "backgroundColorStyle": {
                       "rgbColor": {
                         "red": 1,
@@ -26951,12 +27113,15 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/g/G39BW6"
+                    "stringValue": "https://www.munzee.com/g/G39BW6"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/g/G39BW6"
+                    "stringValue": "https://www.munzee.com/g/G39BW6"
                   },
-                  "formattedValue": "http://www.munzee.com/g/G39BW6",
+                  "formattedValue": "https://www.munzee.com/g/G39BW6",
+                  "userEnteredFormat": {
+                    "hyperlinkDisplayType": "LINKED"
+                  },
                   "effectiveFormat": {
                     "backgroundColor": {
                       "red": 1,
@@ -26978,7 +27143,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -27356,7 +27521,7 @@
                     "wrapStrategy": "OVERFLOW_CELL",
                     "textFormat": {
                       "foregroundColor": {},
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -27544,12 +27709,15 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/m/seppo54/6660/LG858Q/"
+                    "stringValue": "https://www.munzee.com/m/seppo54/6660/LG858Q/"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/m/seppo54/6660/LG858Q/"
+                    "stringValue": "https://www.munzee.com/m/seppo54/6660/LG858Q/"
                   },
-                  "formattedValue": "http://www.munzee.com/m/seppo54/6660/LG858Q/",
+                  "formattedValue": "https://www.munzee.com/m/seppo54/6660/LG858Q/",
+                  "userEnteredFormat": {
+                    "hyperlinkDisplayType": "LINKED"
+                  },
                   "effectiveFormat": {
                     "backgroundColor": {
                       "red": 1,
@@ -27571,7 +27739,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -28189,7 +28357,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -28456,12 +28624,15 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/g/F8H9D9"
+                    "stringValue": "https://www.munzee.com/g/F8H9D9"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/g/F8H9D9"
+                    "stringValue": "https://www.munzee.com/g/F8H9D9"
                   },
-                  "formattedValue": "http://www.munzee.com/g/F8H9D9",
+                  "formattedValue": "https://www.munzee.com/g/F8H9D9",
+                  "userEnteredFormat": {
+                    "hyperlinkDisplayType": "LINKED"
+                  },
                   "effectiveFormat": {
                     "backgroundColor": {
                       "red": 1,
@@ -28483,7 +28654,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -28750,12 +28921,15 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/g/0T3X9X"
+                    "stringValue": "https://www.munzee.com/g/0T3X9X"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/g/0T3X9X"
+                    "stringValue": "https://www.munzee.com/g/0T3X9X"
                   },
-                  "formattedValue": "http://www.munzee.com/g/0T3X9X",
+                  "formattedValue": "https://www.munzee.com/g/0T3X9X",
+                  "userEnteredFormat": {
+                    "hyperlinkDisplayType": "LINKED"
+                  },
                   "effectiveFormat": {
                     "backgroundColor": {
                       "red": 1,
@@ -28777,7 +28951,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -29044,12 +29218,15 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/g/RH82T4"
+                    "stringValue": "https://www.munzee.com/g/RH82T4"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/g/RH82T4"
+                    "stringValue": "https://www.munzee.com/g/RH82T4"
                   },
-                  "formattedValue": "http://www.munzee.com/g/RH82T4",
+                  "formattedValue": "https://www.munzee.com/g/RH82T4",
+                  "userEnteredFormat": {
+                    "hyperlinkDisplayType": "LINKED"
+                  },
                   "effectiveFormat": {
                     "backgroundColor": {
                       "red": 1,
@@ -29071,7 +29248,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -29368,7 +29545,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -29635,12 +29812,15 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/g/F3X47R"
+                    "stringValue": "https://www.munzee.com/g/F3X47R"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/g/F3X47R"
+                    "stringValue": "https://www.munzee.com/g/F3X47R"
                   },
-                  "formattedValue": "http://www.munzee.com/g/F3X47R",
+                  "formattedValue": "https://www.munzee.com/g/F3X47R",
+                  "userEnteredFormat": {
+                    "hyperlinkDisplayType": "LINKED"
+                  },
                   "effectiveFormat": {
                     "backgroundColor": {
                       "red": 1,
@@ -29662,7 +29842,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -30283,7 +30463,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -30580,7 +30760,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -30958,7 +31138,7 @@
                     "wrapStrategy": "OVERFLOW_CELL",
                     "textFormat": {
                       "foregroundColor": {},
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -31256,7 +31436,7 @@
                     "wrapStrategy": "OVERFLOW_CELL",
                     "textFormat": {
                       "foregroundColor": {},
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -31301,7 +31481,7 @@
                     "wrapStrategy": "OVERFLOW_CELL",
                     "textFormat": {
                       "foregroundColor": {},
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -31346,7 +31526,7 @@
                     "wrapStrategy": "OVERFLOW_CELL",
                     "textFormat": {
                       "foregroundColor": {},
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -31368,12 +31548,15 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/g/3QB6J3"
+                    "stringValue": "https://www.munzee.com/g/3QB6J3"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/g/3QB6J3"
+                    "stringValue": "https://www.munzee.com/g/3QB6J3"
                   },
-                  "formattedValue": "http://www.munzee.com/g/3QB6J3",
+                  "formattedValue": "https://www.munzee.com/g/3QB6J3",
+                  "userEnteredFormat": {
+                    "hyperlinkDisplayType": "LINKED"
+                  },
                   "effectiveFormat": {
                     "backgroundColor": {
                       "red": 1,
@@ -31395,7 +31578,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -32016,7 +32199,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -32313,7 +32496,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -32580,12 +32763,15 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/g/S42R9R"
+                    "stringValue": "https://www.munzee.com/g/S42R9R"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/g/S42R9R"
+                    "stringValue": "https://www.munzee.com/g/S42R9R"
                   },
-                  "formattedValue": "http://www.munzee.com/g/S42R9R",
+                  "formattedValue": "https://www.munzee.com/g/S42R9R",
+                  "userEnteredFormat": {
+                    "hyperlinkDisplayType": "LINKED"
+                  },
                   "effectiveFormat": {
                     "backgroundColor": {
                       "red": 1,
@@ -32607,7 +32793,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -32874,12 +33060,15 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/g/000RUR"
+                    "stringValue": "https://www.munzee.com/g/000RUR"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/g/000RUR"
+                    "stringValue": "https://www.munzee.com/g/000RUR"
                   },
-                  "formattedValue": "http://www.munzee.com/g/000RUR",
+                  "formattedValue": "https://www.munzee.com/g/000RUR",
+                  "userEnteredFormat": {
+                    "hyperlinkDisplayType": "LINKED"
+                  },
                   "effectiveFormat": {
                     "backgroundColor": {
                       "red": 1,
@@ -32901,7 +33090,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -32955,7 +33144,7 @@
                     "wrapStrategy": "OVERFLOW_CELL",
                     "textFormat": {
                       "foregroundColor": {},
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -33143,12 +33332,12 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/g/F192JI"
+                    "stringValue": "https://www.munzee.com/g/F192JI"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/g/F192JI"
+                    "stringValue": "https://www.munzee.com/g/F192JI"
                   },
-                  "formattedValue": "http://www.munzee.com/g/F192JI",
+                  "formattedValue": "https://www.munzee.com/g/F192JI",
                   "userEnteredFormat": {
                     "backgroundColor": {
                       "red": 0.972549,
@@ -33172,6 +33361,7 @@
                         }
                       }
                     },
+                    "hyperlinkDisplayType": "LINKED",
                     "backgroundColorStyle": {
                       "rgbColor": {
                         "red": 0.972549,
@@ -33822,7 +34012,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -34089,12 +34279,15 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/g/6L5FN0"
+                    "stringValue": "https://www.munzee.com/g/6L5FN0"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/g/6L5FN0"
+                    "stringValue": "https://www.munzee.com/g/6L5FN0"
                   },
-                  "formattedValue": "http://www.munzee.com/g/6L5FN0",
+                  "formattedValue": "https://www.munzee.com/g/6L5FN0",
+                  "userEnteredFormat": {
+                    "hyperlinkDisplayType": "LINKED"
+                  },
                   "effectiveFormat": {
                     "backgroundColor": {
                       "red": 1,
@@ -34116,7 +34309,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -34707,12 +34900,15 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/g/1QP00B"
+                    "stringValue": "https://www.munzee.com/g/1QP00B"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/g/1QP00B"
+                    "stringValue": "https://www.munzee.com/g/1QP00B"
                   },
-                  "formattedValue": "http://www.munzee.com/g/1QP00B",
+                  "formattedValue": "https://www.munzee.com/g/1QP00B",
+                  "userEnteredFormat": {
+                    "hyperlinkDisplayType": "LINKED"
+                  },
                   "effectiveFormat": {
                     "backgroundColor": {
                       "red": 1,
@@ -34734,7 +34930,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -35001,12 +35197,15 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/g/3VG1A8"
+                    "stringValue": "https://www.munzee.com/g/3VG1A8"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/g/3VG1A8"
+                    "stringValue": "https://www.munzee.com/g/3VG1A8"
                   },
-                  "formattedValue": "http://www.munzee.com/g/3VG1A8",
+                  "formattedValue": "https://www.munzee.com/g/3VG1A8",
+                  "userEnteredFormat": {
+                    "hyperlinkDisplayType": "LINKED"
+                  },
                   "effectiveFormat": {
                     "backgroundColor": {
                       "red": 1,
@@ -35028,7 +35227,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -35295,12 +35494,15 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/g/IK705D"
+                    "stringValue": "https://www.munzee.com/g/IK705D"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/g/IK705D"
+                    "stringValue": "https://www.munzee.com/g/IK705D"
                   },
-                  "formattedValue": "http://www.munzee.com/g/IK705D",
+                  "formattedValue": "https://www.munzee.com/g/IK705D",
+                  "userEnteredFormat": {
+                    "hyperlinkDisplayType": "LINKED"
+                  },
                   "effectiveFormat": {
                     "backgroundColor": {
                       "red": 1,
@@ -35322,7 +35524,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -35619,7 +35821,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -35886,12 +36088,15 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/g/6S3VG3"
+                    "stringValue": "https://www.munzee.com/g/6S3VG3"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/g/6S3VG3"
+                    "stringValue": "https://www.munzee.com/g/6S3VG3"
                   },
-                  "formattedValue": "http://www.munzee.com/g/6S3VG3",
+                  "formattedValue": "https://www.munzee.com/g/6S3VG3",
+                  "userEnteredFormat": {
+                    "hyperlinkDisplayType": "LINKED"
+                  },
                   "effectiveFormat": {
                     "backgroundColor": {
                       "red": 1,
@@ -35913,7 +36118,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -37785,12 +37990,15 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/g/T081UD"
+                    "stringValue": "https://www.munzee.com/g/T081UD"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/g/T081UD"
+                    "stringValue": "https://www.munzee.com/g/T081UD"
                   },
-                  "formattedValue": "http://www.munzee.com/g/T081UD",
+                  "formattedValue": "https://www.munzee.com/g/T081UD",
+                  "userEnteredFormat": {
+                    "hyperlinkDisplayType": "LINKED"
+                  },
                   "effectiveFormat": {
                     "backgroundColor": {
                       "red": 1,
@@ -37812,7 +38020,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -38403,12 +38611,15 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/g/73GUC0"
+                    "stringValue": "https://www.munzee.com/g/73GUC0"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/g/73GUC0"
+                    "stringValue": "https://www.munzee.com/g/73GUC0"
                   },
-                  "formattedValue": "http://www.munzee.com/g/73GUC0",
+                  "formattedValue": "https://www.munzee.com/g/73GUC0",
+                  "userEnteredFormat": {
+                    "hyperlinkDisplayType": "LINKED"
+                  },
                   "effectiveFormat": {
                     "backgroundColor": {
                       "red": 1,
@@ -38430,7 +38641,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -38697,12 +38908,15 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/g/7B08UF"
+                    "stringValue": "https://www.munzee.com/g/7B08UF"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/g/7B08UF"
+                    "stringValue": "https://www.munzee.com/g/7B08UF"
                   },
-                  "formattedValue": "http://www.munzee.com/g/7B08UF",
+                  "formattedValue": "https://www.munzee.com/g/7B08UF",
+                  "userEnteredFormat": {
+                    "hyperlinkDisplayType": "LINKED"
+                  },
                   "effectiveFormat": {
                     "backgroundColor": {
                       "red": 1,
@@ -38724,7 +38938,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -39021,7 +39235,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -39288,12 +39502,15 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/m/matanome/5707/T6NK75/"
+                    "stringValue": "https://www.munzee.com/m/matanome/5707/T6NK75/"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/m/matanome/5707/T6NK75/"
+                    "stringValue": "https://www.munzee.com/m/matanome/5707/T6NK75/"
                   },
-                  "formattedValue": "http://www.munzee.com/m/matanome/5707/T6NK75/",
+                  "formattedValue": "https://www.munzee.com/m/matanome/5707/T6NK75/",
+                  "userEnteredFormat": {
+                    "hyperlinkDisplayType": "LINKED"
+                  },
                   "effectiveFormat": {
                     "backgroundColor": {
                       "red": 1,
@@ -39315,7 +39532,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -39582,12 +39799,30 @@
                 },
                 {
                   "userEnteredValue": {
-                    "stringValue": "http://www.munzee.com/g/YI362E"
+                    "stringValue": "https://www.munzee.com/g/YI362E"
                   },
                   "effectiveValue": {
-                    "stringValue": "http://www.munzee.com/g/YI362E"
+                    "stringValue": "https://www.munzee.com/g/YI362E"
                   },
-                  "formattedValue": "http://www.munzee.com/g/YI362E",
+                  "formattedValue": "https://www.munzee.com/g/YI362E",
+                  "userEnteredFormat": {
+                    "textFormat": {
+                      "foregroundColor": {
+                        "red": 0.06666667,
+                        "green": 0.33333334,
+                        "blue": 0.8
+                      },
+                      "underline": true,
+                      "foregroundColorStyle": {
+                        "rgbColor": {
+                          "red": 0.06666667,
+                          "green": 0.33333334,
+                          "blue": 0.8
+                        }
+                      }
+                    },
+                    "hyperlinkDisplayType": "LINKED"
+                  },
                   "effectiveFormat": {
                     "backgroundColor": {
                       "red": 1,
@@ -39609,7 +39844,7 @@
                         "green": 0.33333334,
                         "blue": 0.8
                       },
-                      "fontFamily": "arial,sans,sans-serif",
+                      "fontFamily": "Arial",
                       "fontSize": 10,
                       "bold": false,
                       "italic": false,
@@ -39635,9 +39870,2822 @@
                   "hyperlink": "http://www.munzee.com/g/YI362E"
                 }
               ]
+            },
+            {
+              "values": [
+                {
+                  "userEnteredValue": {
+                    "stringValue": "ABC!:n puumaja"
+                  },
+                  "effectiveValue": {
+                    "stringValue": "ABC!:n puumaja"
+                  },
+                  "formattedValue": "ABC!:n puumaja",
+                  "userEnteredFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "horizontalAlignment": "LEFT",
+                    "wrapStrategy": "WRAP",
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "\"Courier New\", Courier, monospace, arial, sans-serif",
+                      "fontSize": 11,
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  },
+                  "effectiveFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "padding": {
+                      "top": 2,
+                      "right": 3,
+                      "bottom": 2,
+                      "left": 3
+                    },
+                    "horizontalAlignment": "LEFT",
+                    "verticalAlignment": "BOTTOM",
+                    "wrapStrategy": "WRAP",
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "\"Courier New\", Courier, monospace, arial, sans-serif",
+                      "fontSize": 11,
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "hyperlinkDisplayType": "PLAIN_TEXT",
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  }
+                },
+                {
+                  "userEnteredValue": {
+                    "numberValue": 60.46959651158
+                  },
+                  "effectiveValue": {
+                    "numberValue": 60.46959651158
+                  },
+                  "formattedValue": "60.46959651",
+                  "userEnteredFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "Roboto, RobotoDraft, Helvetica, Arial, sans-serif",
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  },
+                  "effectiveFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "padding": {
+                      "top": 2,
+                      "right": 3,
+                      "bottom": 2,
+                      "left": 3
+                    },
+                    "horizontalAlignment": "RIGHT",
+                    "verticalAlignment": "BOTTOM",
+                    "wrapStrategy": "OVERFLOW_CELL",
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "Roboto, RobotoDraft, Helvetica, Arial, sans-serif",
+                      "fontSize": 10,
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "hyperlinkDisplayType": "PLAIN_TEXT",
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  }
+                },
+                {
+                  "userEnteredValue": {
+                    "numberValue": 22.234681721826
+                  },
+                  "effectiveValue": {
+                    "numberValue": 22.234681721826
+                  },
+                  "formattedValue": "22.23468172",
+                  "userEnteredFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "Roboto, RobotoDraft, Helvetica, Arial, sans-serif",
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  },
+                  "effectiveFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "padding": {
+                      "top": 2,
+                      "right": 3,
+                      "bottom": 2,
+                      "left": 3
+                    },
+                    "horizontalAlignment": "RIGHT",
+                    "verticalAlignment": "BOTTOM",
+                    "wrapStrategy": "OVERFLOW_CELL",
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "Roboto, RobotoDraft, Helvetica, Arial, sans-serif",
+                      "fontSize": 10,
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "hyperlinkDisplayType": "PLAIN_TEXT",
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  }
+                },
+                {
+                  "userEnteredValue": {
+                    "stringValue": "https://www.munzee.com/g/PFS324"
+                  },
+                  "effectiveValue": {
+                    "stringValue": "https://www.munzee.com/g/PFS324"
+                  },
+                  "formattedValue": "https://www.munzee.com/g/PFS324",
+                  "userEnteredFormat": {
+                    "backgroundColor": {
+                      "red": 0.93333334,
+                      "green": 0.93333334,
+                      "blue": 0.93333334
+                    },
+                    "horizontalAlignment": "LEFT",
+                    "wrapStrategy": "OVERFLOW_CELL",
+                    "textFormat": {
+                      "foregroundColor": {
+                        "red": 0.06666667,
+                        "green": 0.33333334,
+                        "blue": 0.8
+                      },
+                      "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+                      "fontSize": 11,
+                      "underline": true,
+                      "foregroundColorStyle": {
+                        "rgbColor": {
+                          "red": 0.06666667,
+                          "green": 0.33333334,
+                          "blue": 0.8
+                        }
+                      }
+                    },
+                    "hyperlinkDisplayType": "LINKED",
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 0.93333334,
+                        "green": 0.93333334,
+                        "blue": 0.93333334
+                      }
+                    }
+                  },
+                  "effectiveFormat": {
+                    "backgroundColor": {
+                      "red": 0.93333334,
+                      "green": 0.93333334,
+                      "blue": 0.93333334
+                    },
+                    "padding": {
+                      "top": 2,
+                      "right": 3,
+                      "bottom": 2,
+                      "left": 3
+                    },
+                    "horizontalAlignment": "LEFT",
+                    "verticalAlignment": "BOTTOM",
+                    "wrapStrategy": "OVERFLOW_CELL",
+                    "textFormat": {
+                      "foregroundColor": {
+                        "red": 0.06666667,
+                        "green": 0.33333334,
+                        "blue": 0.8
+                      },
+                      "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+                      "fontSize": 11,
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": true,
+                      "foregroundColorStyle": {
+                        "rgbColor": {
+                          "red": 0.06666667,
+                          "green": 0.33333334,
+                          "blue": 0.8
+                        }
+                      }
+                    },
+                    "hyperlinkDisplayType": "LINKED",
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 0.93333334,
+                        "green": 0.93333334,
+                        "blue": 0.93333334
+                      }
+                    }
+                  },
+                  "hyperlink": "https://www.munzee.com/g/PFS324"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "userEnteredValue": {
+                    "stringValue": "Leninin piilopaikka"
+                  },
+                  "effectiveValue": {
+                    "stringValue": "Leninin piilopaikka"
+                  },
+                  "formattedValue": "Leninin piilopaikka",
+                  "userEnteredFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "horizontalAlignment": "LEFT",
+                    "wrapStrategy": "WRAP",
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "\"Courier New\", Courier, monospace, arial, sans-serif",
+                      "fontSize": 11,
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  },
+                  "effectiveFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "padding": {
+                      "top": 2,
+                      "right": 3,
+                      "bottom": 2,
+                      "left": 3
+                    },
+                    "horizontalAlignment": "LEFT",
+                    "verticalAlignment": "BOTTOM",
+                    "wrapStrategy": "WRAP",
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "\"Courier New\", Courier, monospace, arial, sans-serif",
+                      "fontSize": 11,
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "hyperlinkDisplayType": "PLAIN_TEXT",
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  }
+                },
+                {
+                  "userEnteredValue": {
+                    "numberValue": 60.450709614551
+                  },
+                  "effectiveValue": {
+                    "numberValue": 60.450709614551
+                  },
+                  "formattedValue": "60.45070961",
+                  "userEnteredFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "Roboto, RobotoDraft, Helvetica, Arial, sans-serif",
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  },
+                  "effectiveFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "padding": {
+                      "top": 2,
+                      "right": 3,
+                      "bottom": 2,
+                      "left": 3
+                    },
+                    "horizontalAlignment": "RIGHT",
+                    "verticalAlignment": "BOTTOM",
+                    "wrapStrategy": "OVERFLOW_CELL",
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "Roboto, RobotoDraft, Helvetica, Arial, sans-serif",
+                      "fontSize": 10,
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "hyperlinkDisplayType": "PLAIN_TEXT",
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  }
+                },
+                {
+                  "userEnteredValue": {
+                    "numberValue": 22.25670477105
+                  },
+                  "effectiveValue": {
+                    "numberValue": 22.25670477105
+                  },
+                  "formattedValue": "22.25670477",
+                  "userEnteredFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "Roboto, RobotoDraft, Helvetica, Arial, sans-serif",
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  },
+                  "effectiveFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "padding": {
+                      "top": 2,
+                      "right": 3,
+                      "bottom": 2,
+                      "left": 3
+                    },
+                    "horizontalAlignment": "RIGHT",
+                    "verticalAlignment": "BOTTOM",
+                    "wrapStrategy": "OVERFLOW_CELL",
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "Roboto, RobotoDraft, Helvetica, Arial, sans-serif",
+                      "fontSize": 10,
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "hyperlinkDisplayType": "PLAIN_TEXT",
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  }
+                },
+                {
+                  "userEnteredValue": {
+                    "stringValue": "https://www.munzee.com/g/A65X9Y"
+                  },
+                  "effectiveValue": {
+                    "stringValue": "https://www.munzee.com/g/A65X9Y"
+                  },
+                  "formattedValue": "https://www.munzee.com/g/A65X9Y",
+                  "userEnteredFormat": {
+                    "horizontalAlignment": "LEFT",
+                    "textFormat": {
+                      "foregroundColor": {
+                        "red": 0.06666667,
+                        "green": 0.33333334,
+                        "blue": 0.8
+                      },
+                      "underline": true,
+                      "foregroundColorStyle": {
+                        "rgbColor": {
+                          "red": 0.06666667,
+                          "green": 0.33333334,
+                          "blue": 0.8
+                        }
+                      }
+                    },
+                    "hyperlinkDisplayType": "LINKED"
+                  },
+                  "effectiveFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "padding": {
+                      "top": 2,
+                      "right": 3,
+                      "bottom": 2,
+                      "left": 3
+                    },
+                    "horizontalAlignment": "LEFT",
+                    "verticalAlignment": "BOTTOM",
+                    "wrapStrategy": "OVERFLOW_CELL",
+                    "textFormat": {
+                      "foregroundColor": {
+                        "red": 0.06666667,
+                        "green": 0.33333334,
+                        "blue": 0.8
+                      },
+                      "fontFamily": "Arial",
+                      "fontSize": 10,
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": true,
+                      "foregroundColorStyle": {
+                        "rgbColor": {
+                          "red": 0.06666667,
+                          "green": 0.33333334,
+                          "blue": 0.8
+                        }
+                      }
+                    },
+                    "hyperlinkDisplayType": "LINKED",
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  },
+                  "hyperlink": "http://www.munzee.com/g/A65X9Y"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "userEnteredValue": {
+                    "stringValue": "Yliopistonkadun maja"
+                  },
+                  "effectiveValue": {
+                    "stringValue": "Yliopistonkadun maja"
+                  },
+                  "formattedValue": "Yliopistonkadun maja",
+                  "userEnteredFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "horizontalAlignment": "LEFT",
+                    "wrapStrategy": "WRAP",
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "\"Courier New\", Courier, monospace, arial, sans-serif",
+                      "fontSize": 11,
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  },
+                  "effectiveFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "padding": {
+                      "top": 2,
+                      "right": 3,
+                      "bottom": 2,
+                      "left": 3
+                    },
+                    "horizontalAlignment": "LEFT",
+                    "verticalAlignment": "BOTTOM",
+                    "wrapStrategy": "WRAP",
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "\"Courier New\", Courier, monospace, arial, sans-serif",
+                      "fontSize": 11,
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "hyperlinkDisplayType": "PLAIN_TEXT",
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  }
+                },
+                {
+                  "userEnteredValue": {
+                    "numberValue": 60.44816450713
+                  },
+                  "effectiveValue": {
+                    "numberValue": 60.44816450713
+                  },
+                  "formattedValue": "60.44816451",
+                  "userEnteredFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "Roboto, RobotoDraft, Helvetica, Arial, sans-serif",
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  },
+                  "effectiveFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "padding": {
+                      "top": 2,
+                      "right": 3,
+                      "bottom": 2,
+                      "left": 3
+                    },
+                    "horizontalAlignment": "RIGHT",
+                    "verticalAlignment": "BOTTOM",
+                    "wrapStrategy": "OVERFLOW_CELL",
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "Roboto, RobotoDraft, Helvetica, Arial, sans-serif",
+                      "fontSize": 10,
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "hyperlinkDisplayType": "PLAIN_TEXT",
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  }
+                },
+                {
+                  "userEnteredValue": {
+                    "numberValue": 22.254378479229
+                  },
+                  "effectiveValue": {
+                    "numberValue": 22.254378479229
+                  },
+                  "formattedValue": "22.25437848",
+                  "userEnteredFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "Roboto, RobotoDraft, Helvetica, Arial, sans-serif",
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  },
+                  "effectiveFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "padding": {
+                      "top": 2,
+                      "right": 3,
+                      "bottom": 2,
+                      "left": 3
+                    },
+                    "horizontalAlignment": "RIGHT",
+                    "verticalAlignment": "BOTTOM",
+                    "wrapStrategy": "OVERFLOW_CELL",
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "Roboto, RobotoDraft, Helvetica, Arial, sans-serif",
+                      "fontSize": 10,
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "hyperlinkDisplayType": "PLAIN_TEXT",
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  }
+                },
+                {
+                  "userEnteredValue": {
+                    "stringValue": "https://www.munzee.com/g/8IW43V"
+                  },
+                  "effectiveValue": {
+                    "stringValue": "https://www.munzee.com/g/8IW43V"
+                  },
+                  "formattedValue": "https://www.munzee.com/g/8IW43V",
+                  "userEnteredFormat": {
+                    "horizontalAlignment": "LEFT",
+                    "textFormat": {
+                      "foregroundColor": {
+                        "red": 0.06666667,
+                        "green": 0.33333334,
+                        "blue": 0.8
+                      },
+                      "underline": true,
+                      "foregroundColorStyle": {
+                        "rgbColor": {
+                          "red": 0.06666667,
+                          "green": 0.33333334,
+                          "blue": 0.8
+                        }
+                      }
+                    },
+                    "hyperlinkDisplayType": "LINKED"
+                  },
+                  "effectiveFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "padding": {
+                      "top": 2,
+                      "right": 3,
+                      "bottom": 2,
+                      "left": 3
+                    },
+                    "horizontalAlignment": "LEFT",
+                    "verticalAlignment": "BOTTOM",
+                    "wrapStrategy": "OVERFLOW_CELL",
+                    "textFormat": {
+                      "foregroundColor": {
+                        "red": 0.06666667,
+                        "green": 0.33333334,
+                        "blue": 0.8
+                      },
+                      "fontFamily": "Arial",
+                      "fontSize": 10,
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": true,
+                      "foregroundColorStyle": {
+                        "rgbColor": {
+                          "red": 0.06666667,
+                          "green": 0.33333334,
+                          "blue": 0.8
+                        }
+                      }
+                    },
+                    "hyperlinkDisplayType": "LINKED",
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  },
+                  "hyperlink": "http://www.munzee.com/g/8IW43V"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "userEnteredValue": {
+                    "stringValue": "Sosiaalikeskuksen puumaja"
+                  },
+                  "effectiveValue": {
+                    "stringValue": "Sosiaalikeskuksen puumaja"
+                  },
+                  "formattedValue": "Sosiaalikeskuksen puumaja",
+                  "userEnteredFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "horizontalAlignment": "LEFT",
+                    "wrapStrategy": "WRAP",
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "\"Courier New\", Courier, monospace, arial, sans-serif",
+                      "fontSize": 11,
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  },
+                  "effectiveFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "padding": {
+                      "top": 2,
+                      "right": 3,
+                      "bottom": 2,
+                      "left": 3
+                    },
+                    "horizontalAlignment": "LEFT",
+                    "verticalAlignment": "BOTTOM",
+                    "wrapStrategy": "WRAP",
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "\"Courier New\", Courier, monospace, arial, sans-serif",
+                      "fontSize": 11,
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "hyperlinkDisplayType": "PLAIN_TEXT",
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  }
+                },
+                {
+                  "userEnteredValue": {
+                    "numberValue": 60.447820555475
+                  },
+                  "effectiveValue": {
+                    "numberValue": 60.447820555475
+                  },
+                  "formattedValue": "60.44782056",
+                  "userEnteredFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "Roboto, RobotoDraft, Helvetica, Arial, sans-serif",
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  },
+                  "effectiveFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "padding": {
+                      "top": 2,
+                      "right": 3,
+                      "bottom": 2,
+                      "left": 3
+                    },
+                    "horizontalAlignment": "RIGHT",
+                    "verticalAlignment": "BOTTOM",
+                    "wrapStrategy": "OVERFLOW_CELL",
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "Roboto, RobotoDraft, Helvetica, Arial, sans-serif",
+                      "fontSize": 10,
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "hyperlinkDisplayType": "PLAIN_TEXT",
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  }
+                },
+                {
+                  "userEnteredValue": {
+                    "numberValue": 22.26214949975
+                  },
+                  "effectiveValue": {
+                    "numberValue": 22.26214949975
+                  },
+                  "formattedValue": "22.2621495",
+                  "userEnteredFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "Roboto, RobotoDraft, Helvetica, Arial, sans-serif",
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  },
+                  "effectiveFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "padding": {
+                      "top": 2,
+                      "right": 3,
+                      "bottom": 2,
+                      "left": 3
+                    },
+                    "horizontalAlignment": "RIGHT",
+                    "verticalAlignment": "BOTTOM",
+                    "wrapStrategy": "OVERFLOW_CELL",
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "Roboto, RobotoDraft, Helvetica, Arial, sans-serif",
+                      "fontSize": 10,
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "hyperlinkDisplayType": "PLAIN_TEXT",
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  }
+                },
+                {
+                  "userEnteredValue": {
+                    "stringValue": "https://www.munzee.com/g/07G4XA"
+                  },
+                  "effectiveValue": {
+                    "stringValue": "https://www.munzee.com/g/07G4XA"
+                  },
+                  "formattedValue": "https://www.munzee.com/g/07G4XA",
+                  "userEnteredFormat": {
+                    "horizontalAlignment": "LEFT",
+                    "textFormat": {
+                      "foregroundColor": {
+                        "red": 0.06666667,
+                        "green": 0.33333334,
+                        "blue": 0.8
+                      },
+                      "underline": true,
+                      "foregroundColorStyle": {
+                        "rgbColor": {
+                          "red": 0.06666667,
+                          "green": 0.33333334,
+                          "blue": 0.8
+                        }
+                      }
+                    },
+                    "hyperlinkDisplayType": "LINKED"
+                  },
+                  "effectiveFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "padding": {
+                      "top": 2,
+                      "right": 3,
+                      "bottom": 2,
+                      "left": 3
+                    },
+                    "horizontalAlignment": "LEFT",
+                    "verticalAlignment": "BOTTOM",
+                    "wrapStrategy": "OVERFLOW_CELL",
+                    "textFormat": {
+                      "foregroundColor": {
+                        "red": 0.06666667,
+                        "green": 0.33333334,
+                        "blue": 0.8
+                      },
+                      "fontFamily": "Arial",
+                      "fontSize": 10,
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": true,
+                      "foregroundColorStyle": {
+                        "rgbColor": {
+                          "red": 0.06666667,
+                          "green": 0.33333334,
+                          "blue": 0.8
+                        }
+                      }
+                    },
+                    "hyperlinkDisplayType": "LINKED",
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  },
+                  "hyperlink": "http://www.munzee.com/g/07G4XA"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "userEnteredValue": {
+                    "stringValue": "TreeCity"
+                  },
+                  "effectiveValue": {
+                    "stringValue": "TreeCity"
+                  },
+                  "formattedValue": "TreeCity",
+                  "userEnteredFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "horizontalAlignment": "LEFT",
+                    "wrapStrategy": "WRAP",
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "\"Courier New\", Courier, monospace, arial, sans-serif",
+                      "fontSize": 11,
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  },
+                  "effectiveFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "padding": {
+                      "top": 2,
+                      "right": 3,
+                      "bottom": 2,
+                      "left": 3
+                    },
+                    "horizontalAlignment": "LEFT",
+                    "verticalAlignment": "BOTTOM",
+                    "wrapStrategy": "WRAP",
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "\"Courier New\", Courier, monospace, arial, sans-serif",
+                      "fontSize": 11,
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "hyperlinkDisplayType": "PLAIN_TEXT",
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  }
+                },
+                {
+                  "userEnteredValue": {
+                    "numberValue": 60.449425480385
+                  },
+                  "effectiveValue": {
+                    "numberValue": 60.449425480385
+                  },
+                  "formattedValue": "60.44942548",
+                  "userEnteredFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "Roboto, RobotoDraft, Helvetica, Arial, sans-serif",
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  },
+                  "effectiveFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "padding": {
+                      "top": 2,
+                      "right": 3,
+                      "bottom": 2,
+                      "left": 3
+                    },
+                    "horizontalAlignment": "RIGHT",
+                    "verticalAlignment": "BOTTOM",
+                    "wrapStrategy": "OVERFLOW_CELL",
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "Roboto, RobotoDraft, Helvetica, Arial, sans-serif",
+                      "fontSize": 10,
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "hyperlinkDisplayType": "PLAIN_TEXT",
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  }
+                },
+                {
+                  "userEnteredValue": {
+                    "numberValue": 22.294272221646
+                  },
+                  "effectiveValue": {
+                    "numberValue": 22.294272221646
+                  },
+                  "formattedValue": "22.29427222",
+                  "userEnteredFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "Roboto, RobotoDraft, Helvetica, Arial, sans-serif",
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  },
+                  "effectiveFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "padding": {
+                      "top": 2,
+                      "right": 3,
+                      "bottom": 2,
+                      "left": 3
+                    },
+                    "horizontalAlignment": "RIGHT",
+                    "verticalAlignment": "BOTTOM",
+                    "wrapStrategy": "OVERFLOW_CELL",
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "Roboto, RobotoDraft, Helvetica, Arial, sans-serif",
+                      "fontSize": 10,
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "hyperlinkDisplayType": "PLAIN_TEXT",
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  }
+                },
+                {
+                  "userEnteredValue": {
+                    "stringValue": "https://www.munzee.com/g/3QW3W8"
+                  },
+                  "effectiveValue": {
+                    "stringValue": "https://www.munzee.com/g/3QW3W8"
+                  },
+                  "formattedValue": "https://www.munzee.com/g/3QW3W8",
+                  "userEnteredFormat": {
+                    "horizontalAlignment": "LEFT",
+                    "textFormat": {
+                      "foregroundColor": {
+                        "red": 0.06666667,
+                        "green": 0.33333334,
+                        "blue": 0.8
+                      },
+                      "underline": true,
+                      "foregroundColorStyle": {
+                        "rgbColor": {
+                          "red": 0.06666667,
+                          "green": 0.33333334,
+                          "blue": 0.8
+                        }
+                      }
+                    },
+                    "hyperlinkDisplayType": "LINKED"
+                  },
+                  "effectiveFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "padding": {
+                      "top": 2,
+                      "right": 3,
+                      "bottom": 2,
+                      "left": 3
+                    },
+                    "horizontalAlignment": "LEFT",
+                    "verticalAlignment": "BOTTOM",
+                    "wrapStrategy": "OVERFLOW_CELL",
+                    "textFormat": {
+                      "foregroundColor": {
+                        "red": 0.06666667,
+                        "green": 0.33333334,
+                        "blue": 0.8
+                      },
+                      "fontFamily": "Arial",
+                      "fontSize": 10,
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": true,
+                      "foregroundColorStyle": {
+                        "rgbColor": {
+                          "red": 0.06666667,
+                          "green": 0.33333334,
+                          "blue": 0.8
+                        }
+                      }
+                    },
+                    "hyperlinkDisplayType": "LINKED",
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  },
+                  "hyperlink": "http://www.munzee.com/g/3QW3W8"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "userEnteredValue": {
+                    "stringValue": "Kuusiaidan kulkuaukon pesä"
+                  },
+                  "effectiveValue": {
+                    "stringValue": "Kuusiaidan kulkuaukon pesä"
+                  },
+                  "formattedValue": "Kuusiaidan kulkuaukon pesä",
+                  "userEnteredFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "horizontalAlignment": "LEFT",
+                    "wrapStrategy": "WRAP",
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "\"Courier New\", Courier, monospace, arial, sans-serif",
+                      "fontSize": 11,
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  },
+                  "effectiveFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "padding": {
+                      "top": 2,
+                      "right": 3,
+                      "bottom": 2,
+                      "left": 3
+                    },
+                    "horizontalAlignment": "LEFT",
+                    "verticalAlignment": "BOTTOM",
+                    "wrapStrategy": "WRAP",
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "\"Courier New\", Courier, monospace, arial, sans-serif",
+                      "fontSize": 11,
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "hyperlinkDisplayType": "PLAIN_TEXT",
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  }
+                },
+                {
+                  "userEnteredValue": {
+                    "numberValue": 60.454741747198
+                  },
+                  "effectiveValue": {
+                    "numberValue": 60.454741747198
+                  },
+                  "formattedValue": "60.45474175",
+                  "userEnteredFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "Roboto, RobotoDraft, Helvetica, Arial, sans-serif",
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  },
+                  "effectiveFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "padding": {
+                      "top": 2,
+                      "right": 3,
+                      "bottom": 2,
+                      "left": 3
+                    },
+                    "horizontalAlignment": "RIGHT",
+                    "verticalAlignment": "BOTTOM",
+                    "wrapStrategy": "OVERFLOW_CELL",
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "Roboto, RobotoDraft, Helvetica, Arial, sans-serif",
+                      "fontSize": 10,
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "hyperlinkDisplayType": "PLAIN_TEXT",
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  }
+                },
+                {
+                  "userEnteredValue": {
+                    "numberValue": 22.327910235176
+                  },
+                  "effectiveValue": {
+                    "numberValue": 22.327910235176
+                  },
+                  "formattedValue": "22.32791024",
+                  "userEnteredFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "Roboto, RobotoDraft, Helvetica, Arial, sans-serif",
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  },
+                  "effectiveFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "padding": {
+                      "top": 2,
+                      "right": 3,
+                      "bottom": 2,
+                      "left": 3
+                    },
+                    "horizontalAlignment": "RIGHT",
+                    "verticalAlignment": "BOTTOM",
+                    "wrapStrategy": "OVERFLOW_CELL",
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "Roboto, RobotoDraft, Helvetica, Arial, sans-serif",
+                      "fontSize": 10,
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "hyperlinkDisplayType": "PLAIN_TEXT",
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  }
+                },
+                {
+                  "userEnteredValue": {
+                    "stringValue": "https://www.munzee.com/g/ET19H5"
+                  },
+                  "effectiveValue": {
+                    "stringValue": "https://www.munzee.com/g/ET19H5"
+                  },
+                  "formattedValue": "https://www.munzee.com/g/ET19H5",
+                  "userEnteredFormat": {
+                    "horizontalAlignment": "LEFT",
+                    "textFormat": {
+                      "foregroundColor": {
+                        "red": 0.06666667,
+                        "green": 0.33333334,
+                        "blue": 0.8
+                      },
+                      "underline": true,
+                      "foregroundColorStyle": {
+                        "rgbColor": {
+                          "red": 0.06666667,
+                          "green": 0.33333334,
+                          "blue": 0.8
+                        }
+                      }
+                    },
+                    "hyperlinkDisplayType": "LINKED"
+                  },
+                  "effectiveFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "padding": {
+                      "top": 2,
+                      "right": 3,
+                      "bottom": 2,
+                      "left": 3
+                    },
+                    "horizontalAlignment": "LEFT",
+                    "verticalAlignment": "BOTTOM",
+                    "wrapStrategy": "OVERFLOW_CELL",
+                    "textFormat": {
+                      "foregroundColor": {
+                        "red": 0.06666667,
+                        "green": 0.33333334,
+                        "blue": 0.8
+                      },
+                      "fontFamily": "Arial",
+                      "fontSize": 10,
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": true,
+                      "foregroundColorStyle": {
+                        "rgbColor": {
+                          "red": 0.06666667,
+                          "green": 0.33333334,
+                          "blue": 0.8
+                        }
+                      }
+                    },
+                    "hyperlinkDisplayType": "LINKED",
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  },
+                  "hyperlink": "http://www.munzee.com/g/ET19H5"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "userEnteredValue": {
+                    "stringValue": "Kai de Maja"
+                  },
+                  "effectiveValue": {
+                    "stringValue": "Kai de Maja"
+                  },
+                  "formattedValue": "Kai de Maja",
+                  "userEnteredFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "horizontalAlignment": "LEFT",
+                    "wrapStrategy": "WRAP",
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "\"Courier New\", Courier, monospace, arial, sans-serif",
+                      "fontSize": 11,
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  },
+                  "effectiveFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "padding": {
+                      "top": 2,
+                      "right": 3,
+                      "bottom": 2,
+                      "left": 3
+                    },
+                    "horizontalAlignment": "LEFT",
+                    "verticalAlignment": "BOTTOM",
+                    "wrapStrategy": "WRAP",
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "\"Courier New\", Courier, monospace, arial, sans-serif",
+                      "fontSize": 11,
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "hyperlinkDisplayType": "PLAIN_TEXT",
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  }
+                },
+                {
+                  "userEnteredValue": {
+                    "numberValue": 60.445524593047
+                  },
+                  "effectiveValue": {
+                    "numberValue": 60.445524593047
+                  },
+                  "formattedValue": "60.44552459",
+                  "userEnteredFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "Roboto, RobotoDraft, Helvetica, Arial, sans-serif",
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  },
+                  "effectiveFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "padding": {
+                      "top": 2,
+                      "right": 3,
+                      "bottom": 2,
+                      "left": 3
+                    },
+                    "horizontalAlignment": "RIGHT",
+                    "verticalAlignment": "BOTTOM",
+                    "wrapStrategy": "OVERFLOW_CELL",
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "Roboto, RobotoDraft, Helvetica, Arial, sans-serif",
+                      "fontSize": 10,
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "hyperlinkDisplayType": "PLAIN_TEXT",
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  }
+                },
+                {
+                  "userEnteredValue": {
+                    "numberValue": 22.354046438904
+                  },
+                  "effectiveValue": {
+                    "numberValue": 22.354046438904
+                  },
+                  "formattedValue": "22.35404644",
+                  "userEnteredFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "Roboto, RobotoDraft, Helvetica, Arial, sans-serif",
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  },
+                  "effectiveFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "padding": {
+                      "top": 2,
+                      "right": 3,
+                      "bottom": 2,
+                      "left": 3
+                    },
+                    "horizontalAlignment": "RIGHT",
+                    "verticalAlignment": "BOTTOM",
+                    "wrapStrategy": "OVERFLOW_CELL",
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "Roboto, RobotoDraft, Helvetica, Arial, sans-serif",
+                      "fontSize": 10,
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "hyperlinkDisplayType": "PLAIN_TEXT",
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  }
+                },
+                {
+                  "userEnteredValue": {
+                    "stringValue": "https://www.munzee.com/g/S01G0D"
+                  },
+                  "effectiveValue": {
+                    "stringValue": "https://www.munzee.com/g/S01G0D"
+                  },
+                  "formattedValue": "https://www.munzee.com/g/S01G0D",
+                  "userEnteredFormat": {
+                    "backgroundColor": {
+                      "red": 0.93333334,
+                      "green": 0.93333334,
+                      "blue": 0.93333334
+                    },
+                    "horizontalAlignment": "LEFT",
+                    "wrapStrategy": "OVERFLOW_CELL",
+                    "textFormat": {
+                      "foregroundColor": {
+                        "red": 0.06666667,
+                        "green": 0.33333334,
+                        "blue": 0.8
+                      },
+                      "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+                      "fontSize": 11,
+                      "underline": true,
+                      "foregroundColorStyle": {
+                        "rgbColor": {
+                          "red": 0.06666667,
+                          "green": 0.33333334,
+                          "blue": 0.8
+                        }
+                      }
+                    },
+                    "hyperlinkDisplayType": "LINKED",
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 0.93333334,
+                        "green": 0.93333334,
+                        "blue": 0.93333334
+                      }
+                    }
+                  },
+                  "effectiveFormat": {
+                    "backgroundColor": {
+                      "red": 0.93333334,
+                      "green": 0.93333334,
+                      "blue": 0.93333334
+                    },
+                    "padding": {
+                      "top": 2,
+                      "right": 3,
+                      "bottom": 2,
+                      "left": 3
+                    },
+                    "horizontalAlignment": "LEFT",
+                    "verticalAlignment": "BOTTOM",
+                    "wrapStrategy": "OVERFLOW_CELL",
+                    "textFormat": {
+                      "foregroundColor": {
+                        "red": 0.06666667,
+                        "green": 0.33333334,
+                        "blue": 0.8
+                      },
+                      "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+                      "fontSize": 11,
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": true,
+                      "foregroundColorStyle": {
+                        "rgbColor": {
+                          "red": 0.06666667,
+                          "green": 0.33333334,
+                          "blue": 0.8
+                        }
+                      }
+                    },
+                    "hyperlinkDisplayType": "LINKED",
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 0.93333334,
+                        "green": 0.93333334,
+                        "blue": 0.93333334
+                      }
+                    }
+                  },
+                  "hyperlink": "https://www.munzee.com/g/S01G0D"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "userEnteredValue": {
+                    "stringValue": "Teemu Puukki"
+                  },
+                  "effectiveValue": {
+                    "stringValue": "Teemu Puukki"
+                  },
+                  "formattedValue": "Teemu Puukki",
+                  "userEnteredFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "horizontalAlignment": "LEFT",
+                    "wrapStrategy": "WRAP",
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "\"Courier New\", Courier, monospace, arial, sans-serif",
+                      "fontSize": 11,
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  },
+                  "effectiveFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "padding": {
+                      "top": 2,
+                      "right": 3,
+                      "bottom": 2,
+                      "left": 3
+                    },
+                    "horizontalAlignment": "LEFT",
+                    "verticalAlignment": "BOTTOM",
+                    "wrapStrategy": "WRAP",
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "\"Courier New\", Courier, monospace, arial, sans-serif",
+                      "fontSize": 11,
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "hyperlinkDisplayType": "PLAIN_TEXT",
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  }
+                },
+                {
+                  "userEnteredValue": {
+                    "numberValue": 60.43243570563
+                  },
+                  "effectiveValue": {
+                    "numberValue": 60.43243570563
+                  },
+                  "formattedValue": "60.43243571",
+                  "userEnteredFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "Roboto, RobotoDraft, Helvetica, Arial, sans-serif",
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  },
+                  "effectiveFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "padding": {
+                      "top": 2,
+                      "right": 3,
+                      "bottom": 2,
+                      "left": 3
+                    },
+                    "horizontalAlignment": "RIGHT",
+                    "verticalAlignment": "BOTTOM",
+                    "wrapStrategy": "OVERFLOW_CELL",
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "Roboto, RobotoDraft, Helvetica, Arial, sans-serif",
+                      "fontSize": 10,
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "hyperlinkDisplayType": "PLAIN_TEXT",
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  }
+                },
+                {
+                  "userEnteredValue": {
+                    "numberValue": 22.35135684418
+                  },
+                  "effectiveValue": {
+                    "numberValue": 22.35135684418
+                  },
+                  "formattedValue": "22.35135684",
+                  "userEnteredFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "Roboto, RobotoDraft, Helvetica, Arial, sans-serif",
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  },
+                  "effectiveFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "padding": {
+                      "top": 2,
+                      "right": 3,
+                      "bottom": 2,
+                      "left": 3
+                    },
+                    "horizontalAlignment": "RIGHT",
+                    "verticalAlignment": "BOTTOM",
+                    "wrapStrategy": "OVERFLOW_CELL",
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "Roboto, RobotoDraft, Helvetica, Arial, sans-serif",
+                      "fontSize": 10,
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "hyperlinkDisplayType": "PLAIN_TEXT",
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  }
+                },
+                {
+                  "userEnteredValue": {
+                    "stringValue": "https://www.munzee.com/g/06K8UU"
+                  },
+                  "effectiveValue": {
+                    "stringValue": "https://www.munzee.com/g/06K8UU"
+                  },
+                  "formattedValue": "https://www.munzee.com/g/06K8UU",
+                  "userEnteredFormat": {
+                    "backgroundColor": {
+                      "red": 0.93333334,
+                      "green": 0.93333334,
+                      "blue": 0.93333334
+                    },
+                    "horizontalAlignment": "LEFT",
+                    "wrapStrategy": "OVERFLOW_CELL",
+                    "textFormat": {
+                      "foregroundColor": {
+                        "red": 0.06666667,
+                        "green": 0.33333334,
+                        "blue": 0.8
+                      },
+                      "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+                      "fontSize": 11,
+                      "underline": true,
+                      "foregroundColorStyle": {
+                        "rgbColor": {
+                          "red": 0.06666667,
+                          "green": 0.33333334,
+                          "blue": 0.8
+                        }
+                      }
+                    },
+                    "hyperlinkDisplayType": "LINKED",
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 0.93333334,
+                        "green": 0.93333334,
+                        "blue": 0.93333334
+                      }
+                    }
+                  },
+                  "effectiveFormat": {
+                    "backgroundColor": {
+                      "red": 0.93333334,
+                      "green": 0.93333334,
+                      "blue": 0.93333334
+                    },
+                    "padding": {
+                      "top": 2,
+                      "right": 3,
+                      "bottom": 2,
+                      "left": 3
+                    },
+                    "horizontalAlignment": "LEFT",
+                    "verticalAlignment": "BOTTOM",
+                    "wrapStrategy": "OVERFLOW_CELL",
+                    "textFormat": {
+                      "foregroundColor": {
+                        "red": 0.06666667,
+                        "green": 0.33333334,
+                        "blue": 0.8
+                      },
+                      "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+                      "fontSize": 11,
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": true,
+                      "foregroundColorStyle": {
+                        "rgbColor": {
+                          "red": 0.06666667,
+                          "green": 0.33333334,
+                          "blue": 0.8
+                        }
+                      }
+                    },
+                    "hyperlinkDisplayType": "LINKED",
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 0.93333334,
+                        "green": 0.93333334,
+                        "blue": 0.93333334
+                      }
+                    }
+                  },
+                  "hyperlink": "https://www.munzee.com/g/06K8UU"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "userEnteredValue": {
+                    "stringValue": "Tolppa"
+                  },
+                  "effectiveValue": {
+                    "stringValue": "Tolppa"
+                  },
+                  "formattedValue": "Tolppa",
+                  "userEnteredFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "horizontalAlignment": "LEFT",
+                    "wrapStrategy": "WRAP",
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "\"Courier New\", Courier, monospace, arial, sans-serif",
+                      "fontSize": 11,
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  },
+                  "effectiveFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "padding": {
+                      "top": 2,
+                      "right": 3,
+                      "bottom": 2,
+                      "left": 3
+                    },
+                    "horizontalAlignment": "LEFT",
+                    "verticalAlignment": "BOTTOM",
+                    "wrapStrategy": "WRAP",
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "\"Courier New\", Courier, monospace, arial, sans-serif",
+                      "fontSize": 11,
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "hyperlinkDisplayType": "PLAIN_TEXT",
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  }
+                },
+                {
+                  "userEnteredValue": {
+                    "numberValue": 60.459099370111
+                  },
+                  "effectiveValue": {
+                    "numberValue": 60.459099370111
+                  },
+                  "formattedValue": "60.45909937",
+                  "userEnteredFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "Roboto, RobotoDraft, Helvetica, Arial, sans-serif",
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  },
+                  "effectiveFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "padding": {
+                      "top": 2,
+                      "right": 3,
+                      "bottom": 2,
+                      "left": 3
+                    },
+                    "horizontalAlignment": "RIGHT",
+                    "verticalAlignment": "BOTTOM",
+                    "wrapStrategy": "OVERFLOW_CELL",
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "Roboto, RobotoDraft, Helvetica, Arial, sans-serif",
+                      "fontSize": 10,
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "hyperlinkDisplayType": "PLAIN_TEXT",
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  }
+                },
+                {
+                  "userEnteredValue": {
+                    "numberValue": 22.327520465499
+                  },
+                  "effectiveValue": {
+                    "numberValue": 22.327520465499
+                  },
+                  "formattedValue": "22.32752047",
+                  "userEnteredFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "Roboto, RobotoDraft, Helvetica, Arial, sans-serif",
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  },
+                  "effectiveFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "padding": {
+                      "top": 2,
+                      "right": 3,
+                      "bottom": 2,
+                      "left": 3
+                    },
+                    "horizontalAlignment": "RIGHT",
+                    "verticalAlignment": "BOTTOM",
+                    "wrapStrategy": "OVERFLOW_CELL",
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "Roboto, RobotoDraft, Helvetica, Arial, sans-serif",
+                      "fontSize": 10,
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "hyperlinkDisplayType": "PLAIN_TEXT",
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  }
+                },
+                {
+                  "userEnteredValue": {
+                    "stringValue": "https://www.munzee.com/g/GD1Y06"
+                  },
+                  "effectiveValue": {
+                    "stringValue": "https://www.munzee.com/g/GD1Y06"
+                  },
+                  "formattedValue": "https://www.munzee.com/g/GD1Y06",
+                  "userEnteredFormat": {
+                    "horizontalAlignment": "LEFT",
+                    "textFormat": {
+                      "foregroundColor": {
+                        "red": 0.06666667,
+                        "green": 0.33333334,
+                        "blue": 0.8
+                      },
+                      "underline": true,
+                      "foregroundColorStyle": {
+                        "rgbColor": {
+                          "red": 0.06666667,
+                          "green": 0.33333334,
+                          "blue": 0.8
+                        }
+                      }
+                    },
+                    "hyperlinkDisplayType": "LINKED"
+                  },
+                  "effectiveFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "padding": {
+                      "top": 2,
+                      "right": 3,
+                      "bottom": 2,
+                      "left": 3
+                    },
+                    "horizontalAlignment": "LEFT",
+                    "verticalAlignment": "BOTTOM",
+                    "wrapStrategy": "OVERFLOW_CELL",
+                    "textFormat": {
+                      "foregroundColor": {
+                        "red": 0.06666667,
+                        "green": 0.33333334,
+                        "blue": 0.8
+                      },
+                      "fontFamily": "Arial",
+                      "fontSize": 10,
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": true,
+                      "foregroundColorStyle": {
+                        "rgbColor": {
+                          "red": 0.06666667,
+                          "green": 0.33333334,
+                          "blue": 0.8
+                        }
+                      }
+                    },
+                    "hyperlinkDisplayType": "LINKED",
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  },
+                  "hyperlink": "http://www.munzee.com/g/GD1Y06"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "userEnteredValue": {
+                    "stringValue": "Tolppamökki"
+                  },
+                  "effectiveValue": {
+                    "stringValue": "Tolppamökki"
+                  },
+                  "formattedValue": "Tolppamökki",
+                  "userEnteredFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "horizontalAlignment": "LEFT",
+                    "wrapStrategy": "WRAP",
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "\"Courier New\", Courier, monospace, arial, sans-serif",
+                      "fontSize": 11,
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  },
+                  "effectiveFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "padding": {
+                      "top": 2,
+                      "right": 3,
+                      "bottom": 2,
+                      "left": 3
+                    },
+                    "horizontalAlignment": "LEFT",
+                    "verticalAlignment": "BOTTOM",
+                    "wrapStrategy": "WRAP",
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "\"Courier New\", Courier, monospace, arial, sans-serif",
+                      "fontSize": 11,
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "hyperlinkDisplayType": "PLAIN_TEXT",
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  }
+                },
+                {
+                  "userEnteredValue": {
+                    "numberValue": 60.470985797669
+                  },
+                  "effectiveValue": {
+                    "numberValue": 60.470985797669
+                  },
+                  "formattedValue": "60.4709858",
+                  "effectiveFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "padding": {
+                      "top": 2,
+                      "right": 3,
+                      "bottom": 2,
+                      "left": 3
+                    },
+                    "horizontalAlignment": "RIGHT",
+                    "verticalAlignment": "BOTTOM",
+                    "wrapStrategy": "OVERFLOW_CELL",
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "Arial",
+                      "fontSize": 10,
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "hyperlinkDisplayType": "PLAIN_TEXT",
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  }
+                },
+                {
+                  "userEnteredValue": {
+                    "numberValue": 22.3109012665
+                  },
+                  "effectiveValue": {
+                    "numberValue": 22.3109012665
+                  },
+                  "formattedValue": "22.31090127",
+                  "effectiveFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "padding": {
+                      "top": 2,
+                      "right": 3,
+                      "bottom": 2,
+                      "left": 3
+                    },
+                    "horizontalAlignment": "RIGHT",
+                    "verticalAlignment": "BOTTOM",
+                    "wrapStrategy": "OVERFLOW_CELL",
+                    "textFormat": {
+                      "foregroundColor": {},
+                      "fontFamily": "Arial",
+                      "fontSize": 10,
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "foregroundColorStyle": {
+                        "rgbColor": {}
+                      }
+                    },
+                    "hyperlinkDisplayType": "PLAIN_TEXT",
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  }
+                },
+                {
+                  "userEnteredValue": {
+                    "stringValue": "https://www.munzee.com/g/1T67WT"
+                  },
+                  "effectiveValue": {
+                    "stringValue": "https://www.munzee.com/g/1T67WT"
+                  },
+                  "formattedValue": "https://www.munzee.com/g/1T67WT",
+                  "userEnteredFormat": {
+                    "horizontalAlignment": "LEFT",
+                    "textFormat": {
+                      "foregroundColor": {
+                        "red": 0.06666667,
+                        "green": 0.33333334,
+                        "blue": 0.8
+                      },
+                      "underline": true,
+                      "foregroundColorStyle": {
+                        "rgbColor": {
+                          "red": 0.06666667,
+                          "green": 0.33333334,
+                          "blue": 0.8
+                        }
+                      }
+                    },
+                    "hyperlinkDisplayType": "LINKED"
+                  },
+                  "effectiveFormat": {
+                    "backgroundColor": {
+                      "red": 1,
+                      "green": 1,
+                      "blue": 1
+                    },
+                    "padding": {
+                      "top": 2,
+                      "right": 3,
+                      "bottom": 2,
+                      "left": 3
+                    },
+                    "horizontalAlignment": "LEFT",
+                    "verticalAlignment": "BOTTOM",
+                    "wrapStrategy": "OVERFLOW_CELL",
+                    "textFormat": {
+                      "foregroundColor": {
+                        "red": 0.06666667,
+                        "green": 0.33333334,
+                        "blue": 0.8
+                      },
+                      "fontFamily": "Arial",
+                      "fontSize": 10,
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": true,
+                      "foregroundColorStyle": {
+                        "rgbColor": {
+                          "red": 0.06666667,
+                          "green": 0.33333334,
+                          "blue": 0.8
+                        }
+                      }
+                    },
+                    "hyperlinkDisplayType": "LINKED",
+                    "backgroundColorStyle": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                      }
+                    }
+                  },
+                  "hyperlink": "http://www.munzee.com/g/1T67WT"
+                }
+              ]
             }
           ],
           "rowMetadata": [
+            {
+              "pixelSize": 21
+            },
+            {
+              "pixelSize": 21
+            },
+            {
+              "pixelSize": 21
+            },
+            {
+              "pixelSize": 21
+            },
+            {
+              "pixelSize": 21
+            },
+            {
+              "pixelSize": 21
+            },
+            {
+              "pixelSize": 21
+            },
+            {
+              "pixelSize": 21
+            },
+            {
+              "pixelSize": 21
+            },
+            {
+              "pixelSize": 21
+            },
             {
               "pixelSize": 21
             },
@@ -40050,5 +43098,5 @@
       ]
     }
   ],
-  "spreadsheetUrl": "https://docs.google.com/spreadsheets/d/1uRLZEby_WEUruX_vYglBzIhFwtJXQvYf45-NigPZj9E/edit"
+  "spreadsheetUrl": "https://docs.google.com/spreadsheets/d/1qLjBfztulS6NxPTpVQYg2ddcLBsG5yXGo8LUo704mHc/edit"
 }
